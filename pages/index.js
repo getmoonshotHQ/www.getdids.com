@@ -33,7 +33,7 @@ export default function Home() {
                 <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                   <div className="rounded-md">
                     <a
-                      href="#"
+                      href="/new"
                       className="w-full flex items-center justify-center px-4 sm:px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
                     >
                       <svg
@@ -592,7 +592,7 @@ export default function Home() {
           href="https://elastos.academy/did/"
           target="_blank rel="
           rel="noopener noreferrer"
-          className="w-full flex items-center justify-center py-8 px-8 py-3text-base font-medium text-indigo-600 bg-gray-50  hover:bg-gray-100 md:text-lg"
+          className="w-full flex items-center justify-center py-8 px-8 ext-base font-medium text-indigo-600 bg-gray-50  hover:bg-gray-100 md:text-lg"
         >
           Learn more about DID at Elastos Academy
           <svg
